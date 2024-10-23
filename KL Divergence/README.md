@@ -13,12 +13,12 @@ Visualize distributions using visualize.py
 - **Python 3.x**
 - **NumPy library**
 - **Matplotlib library**
+- **Scipy Library**
 
 ## Installation
 
 To install the necessary dependencies, run:
-pip install numpy
-pip install matplotlib
+pip install numpy matplotlib scipy
 
 ## Execution
 To execute the script, navigate to the kl_divergence_example directory and run:
@@ -27,6 +27,8 @@ To execute the script, navigate to the kl_divergence_example directory and run:
 P: Represents the "expected" distribution.
 Q: Represents the "actual" observed distribution.
 The script computes the divergence of Q from P. A lower value of KL Divergence indicates that the distributions are more similar.
+
+
 
 **Visualization**
 The visualize.py script creates a bar chart that compares the two probability distributions. Each category is represented by a pair of bars, where one bar represents the "expected" probability and the other represents the "actual" probability.
