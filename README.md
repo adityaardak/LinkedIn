@@ -62,10 +62,6 @@ We encourage contributions! If you have ideas, find issues, or want to expand ex
    ```
 5. **Create a pull request**.
 
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Connect with Us
 
 Stay updated and connect with the community:
