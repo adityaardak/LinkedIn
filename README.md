@@ -33,7 +33,7 @@ Here's a breakdown of what you can expect to find:
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd repo-name
+   cd LinkedIn
    ```
 3. **Install the dependencies**:
    ```bash
