@@ -29,7 +29,7 @@ Here's a breakdown of what you can expect to find:
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/your-username/repo-name.git](https://github.com/adityaardak/LinkedIn.git)
+   git clone https://github.com/adityaardak/LinkedIn.git
    ```
 2. **Navigate to the project directory**:
    ```bash
