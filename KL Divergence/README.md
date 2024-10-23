@@ -33,7 +33,7 @@ The visualize.py script creates a bar chart that compares the two probability di
 
 This visualization helps to identify where the largest differences between the two distributions lie, giving you a clearer understanding of what contributes to the KL Divergence value.
 
-License
+**License**
 This project is open-source. Feel free to use, modify, and distribute it as needed.
 
 This format provides a clear, structured, and informative README for your project. Let me know if you need any revisions or additions!
